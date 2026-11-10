@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**SanjaySakamuri/SanjaySakamuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi! I'm Sanjay Kumar Sakamuri Kamalakar 👋
 
-Here are some ideas to get you started:
+### Computer Science Undergraduate | Machine Learning & AI
+- I'm curious about what happens beneath the abstractions of computer science — from memory management to the inductive biases that shape how learning algorithms work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tech Stack
+
+- **Languages:** Python, C++, SQL
+- **Machine Learning:** PyTorch, scikit-learn, SciPy
+- **Data & Scientific Computing:** NumPy, Pandas, Matplotlib
+- **Tools:** Git, GitHub, Jupyter, Google Colab
+- **Databases:** PostgreSQL
+
+### What I'm Up To
+
+- Building stronger foundations in computer science.
+- Exploring the mathematics and theory behind machine learning.
+- Learning, experimenting, and figuring out better ways to build things.
+
